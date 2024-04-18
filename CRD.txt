@@ -1,0 +1,22 @@
+Analysis of Variance Table
+
+Response: CRD$yield
+              Df  Sum Sq Mean Sq F value    Pr(>F)    
+CRD$treatment  9 211.134 23.4594  28.319 2.753e-12 ***
+Residuals     30  24.852  0.8284                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] "LSD Result"
+  MSerror Df    Mean       CV  t.value      LSD
+   0.8284 30 6.38675 14.25083 2.042272 1.314373
+              CRD$yield groups
+puffed rice      9.6875      a
+long rice        8.7750     ab
+short rice       8.7025     ab
+barley           8.2600     bc
+sorghum          7.2325      c
+popcorn          5.8875      d
+maize            4.0975      e
+wheat            3.9325      e
+bajra            3.8250      e
+finger millet    3.4675      e
